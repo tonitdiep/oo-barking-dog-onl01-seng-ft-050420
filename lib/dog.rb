@@ -9,9 +9,9 @@ attr_accessor :name
 #   @dogs_name=dogs_name
 # end
 #method, .bark & puts "woof!" when is called
-# def bark(dogs_bark)
-#   puts "woof!"
-# end
+def bark
+  puts "woof!"
+end
 
 end
 

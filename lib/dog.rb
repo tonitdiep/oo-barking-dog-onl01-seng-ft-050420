@@ -13,7 +13,6 @@ def bark(dogs_bark)
   puts "woof!"
 end
 
-
 end
 
 fido = Dog.new

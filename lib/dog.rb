@@ -7,5 +7,3 @@ end
 
 end
 
-fido = Dog.new
-fido.bark

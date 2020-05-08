@@ -1,5 +1,5 @@
 class Dog
-# attr_accessor
+attr_accessor :name
 # # setter method .name = to give a dog name
 # def name(dogs_name)
 #   @dogs_name = dogs_name
